@@ -3,4 +3,4 @@ function change(obj)
 function recover(obj)
 {var c=obj.height; obj.height=b*0.8;var d=obj.width;obj.width=d*0.8;}
 function big(obj)
-{if(obj.innerHTML=="Thank You")obj.innerHTML="NANA'S RESUME";else obj.innerHTML="Thank You";}
+{if(obj.innerHTML=="Thank You")obj.innerHTML="Nana's Resume";else obj.innerHTML="Thank You";}
